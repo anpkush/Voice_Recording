@@ -1,0 +1,6 @@
+<resources>
+    <array name="default_trim_values">
+        <item>0</item>
+        <item>30000</item>
+    </array>
+</resources>
